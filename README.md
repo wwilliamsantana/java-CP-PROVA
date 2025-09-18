@@ -1,17 +1,18 @@
 
 
 
-Lista de Tarefas
+# Projeto - Lista de Tarefas (CRUD) 
 
-Main 
+### Main 
 	- Menu	(While)
 	- tarefas = ArrayList<Tarefa>()
 	- scan
 
-Entities
+### Entities
+	
 	- Tarefa
 		- (id, nome, description, updated_at, created_at)
-Services 
+### Services 
 	- Adicionar
 	- Remover
 	- Atualizar
